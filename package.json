@@ -1,0 +1,19 @@
+{
+  "name": "next-redis-client",
+  "version": "1.0.0",
+  "description": "redis client",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensenzzs/next-redis-client.git"
+  },
+  "author": "jensenzzs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jensenzzs/next-redis-client/issues"
+  },
+  "homepage": "https://github.com/jensenzzs/next-redis-client#readme"
+}
