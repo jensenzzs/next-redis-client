@@ -4,7 +4,8 @@
   "description": "redis client",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jensenzzs/next-redis-client/issues"
   },
-  "homepage": "https://github.com/jensenzzs/next-redis-client#readme"
+  "homepage": "https://github.com/jensenzzs/next-redis-client#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
 }
